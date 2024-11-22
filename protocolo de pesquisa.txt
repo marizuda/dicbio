@@ -9,4 +9,4 @@ Protocolo de pesquisa dos termos:
     c. Se for um termo de origem inglesa, espanhola, francesa etc., devemos consultar os dicionários históricos dessas línguas;
     d. Se for um termo criado em português, vamos direto ao item 5, abaixo;
 5. Identificar qual é a ocorrência mais recuada de que dispomos em português (possivelmente a data informada no Houaiss, ou outra data que descobrirmos pelo Google Books);
-6. Reunir essas informações num texto único.....
+6. Reunir essas informações num texto único.
